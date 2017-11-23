@@ -1,0 +1,10 @@
+com\pablo\gt511c1r\CommandProcessor.class
+com\pablo\gt511c1r\exception\ResponsePacketParingException.class
+com\pablo\gt511c1r\ResponsePacket.class
+com\pablo\gt511c1r\CommandPacket.class
+com\pablo\gt511c1r\HardwareInfoUtils.class
+com\pablo\gt511c1r\DataPacket.class
+com\pablo\gt511c1r\Error.class
+com\pablo\gt511c1r\FingerprintScanner.class
+com\pablo\gt511c1r\exception\CommandProcessingException.class
+com\pablo\gt511c1r\Command.class
